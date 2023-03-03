@@ -41,7 +41,7 @@ Have you found yourself accidentally buying extra perishables and now forcing yo
 
 ### Wireframes
 
-Material UI samples were used in wireframes.  A mobile web view is the focus for the project as it's intended to be used on-the-go and replace a simple notepad app.
+Material UI samples were used in wireframes.  A mobile web view is the focus for the project as it's intended to be used on-the-go and replace a simple notepad app. All react components will be responsive and the overall layout will adjust to a computer screen as shown in the lower frame.
 
 ![Mobile and Desktop sample of My Pantry](Wireframe.png)
 
